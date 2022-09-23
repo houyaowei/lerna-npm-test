@@ -1,6 +1,6 @@
 {
   "name": "basic-utils",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "description": "lerna test basic repo",
   "license": "MIT",
   "main": "lib/basic-utils.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/houyaowei/javascript-validate-utils-2.git"
+    "url": "git+https://github.com/houyaowei/lerna-npm-test.git"
   },
   "dependencies": {
     "javascript-validate-utils": "^0.2.3",

@@ -10,7 +10,7 @@
     "test:basic-utils": "lerna exec --scope basic-utils -- yarn test",
     "test:validat-utils": "lerna exec --scope javascript-validate-utils -- yarn test",
     "test:all": "lerna run test",
-    "publish:repo": "lerna publish"
+    "publish:repo": "lerna publish --skip-git"
   },
   "devDependencies": {
     "lerna": "^5.5.2"

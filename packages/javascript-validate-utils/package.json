@@ -1,6 +1,6 @@
 {
   "name": "javascript-validate-utils-5",
-  "version": "0.2.6",
+  "version": "0.2.3",
   "main": "dist/javascript-validate-utils.js",
   "author": "houyuewei <houyaowei@163.com>",
   "description": "a validate tool for variables and functions",
@@ -15,16 +15,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/houyaowei/javascript-validate-utils-5.git"
+    "url": "git+https://github.com/houyaowei/lerna-npm-test.git"
   },
   "bugs": {
-    "url": "https://github.com/houyaowei/javascript-validate-utils-2/issues"
+    "url": "https://github.com/houyaowei/lerna-npm-test/issues"
   },
-  "homepage": "https://github.com/houyaowei/javascript-validate-utils-2#readme",
+  "homepage": "https://github.com/houyaowei/lerna-npm-test#readme",
   "devDependencies": {
     "jest": "^27.4.7",
     "jest-esm-transformer": "^1.0.0",
     "rollup": "^2.64.0"
-  },
-  "gitHead": "493a4a31ab12dda1121121a96776f24ccfbef2c9"
+  }
 }

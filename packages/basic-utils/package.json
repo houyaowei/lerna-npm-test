@@ -1,6 +1,6 @@
 {
   "name": "basic-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "lerna test basic repo",
   "license": "MIT",
   "main": "lib/basic-utils.js",
@@ -10,7 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/houyaowei/lerna-npm-test.git"
+    "url": "git+https://github.com/houyaowei/lerna-npm-test.git",
+    "directory": "packages/basic-utils"
   },
   "dependencies": {
     "javascript-validate-utils": "^0.2.3",
@@ -18,5 +19,5 @@
     "jest-esm-transformer-2": "^1.0.0",
     "lodash": "^4.17.21"
   },
-  "gitHead": "0dbf25e5d5ffabe842dafcda54d3e66aef3447ee"
+  "gitHead": "91722fd31bc65649b2081ed77853eb0d6c7277d5"
 }

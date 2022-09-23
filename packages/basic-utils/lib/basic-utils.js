@@ -8,10 +8,6 @@ function uniqArray(arr) {
         return []
     }
 }
-function fn(){
-
-}
 export {
     uniqArray,
-    fn
 }

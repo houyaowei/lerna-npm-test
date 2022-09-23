@@ -1,6 +1,6 @@
 {
   "name": "basic-utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "lerna test basic repo",
   "license": "MIT",
   "main": "lib/basic-utils.js",

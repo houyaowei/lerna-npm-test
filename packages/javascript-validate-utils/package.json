@@ -1,6 +1,6 @@
 {
   "name": "javascript-validate-utils-5",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "main": "dist/javascript-validate-utils.js",
   "author": "houyuewei <houyaowei@163.com>",
   "description": "a validate tool for variables and functions",

@@ -4,6 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "license": "MIT",
   "scripts": {
     "bootstrap": "npx lerna run bootstrap",
     "build": "npx lerna run build",

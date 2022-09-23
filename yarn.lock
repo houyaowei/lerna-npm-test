@@ -3753,6 +3753,11 @@ istanbul-reports@^3.1.3:
     html-escaper "^2.0.0"
     istanbul-lib-report "^3.0.0"
 
+javascript-validate-utils@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.npmjs.org/javascript-validate-utils/-/javascript-validate-utils-0.2.3.tgz#0401c8a4948e727be57a2380077459df3eab3dcd"
+  integrity sha512-5xEkNUHhfdnmhXiWK1Dnd8xahF/S9rHBvIajVThEKGN/nekLduDoF8ruVaS1ktdBS2BMyQyoeGcYd9seo4fK1Q==
+
 jest-changed-files@^27.5.1:
   version "27.5.1"
   resolved "https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-27.5.1.tgz#a348aed00ec9bf671cc58a66fcbe7c3dfd6a68f5"

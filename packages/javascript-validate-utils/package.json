@@ -26,5 +26,6 @@
     "jest": "^27.4.7",
     "jest-esm-transformer": "^1.0.0",
     "rollup": "^2.64.0"
-  }
+  },
+  "gitHead": "57c181334e17090a2a757a56f4362d7bae73c373"
 }

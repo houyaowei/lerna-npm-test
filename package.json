@@ -1,6 +1,7 @@
 {
   "name": "javascript-validate-utils-2",
   "main": "",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],

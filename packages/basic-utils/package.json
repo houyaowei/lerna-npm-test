@@ -1,5 +1,5 @@
 {
-  "name": "basic-utils",
+  "name": "basic-utils-2",
   "version": "0.0.4",
   "description": "lerna test basic repo",
   "license": "MIT",
@@ -15,9 +15,10 @@
   },
   "dependencies": {
     "javascript-validate-utils": "^0.2.3",
+    "javascript-validate-utils-5": "^0.2.6",
     "jest": "^29.0.3",
     "jest-esm-transformer-2": "^1.0.0",
     "lodash": "^4.17.21"
   },
-  "gitHead": "91722fd31bc65649b2081ed77853eb0d6c7277d5"
+  "gitHead": "57c181334e17090a2a757a56f4362d7bae73c373"
 }
